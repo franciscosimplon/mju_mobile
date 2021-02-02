@@ -1,2 +1,0 @@
-# mju_mobile
-test
